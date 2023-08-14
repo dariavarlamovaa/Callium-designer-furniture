@@ -1,4 +1,4 @@
-# 🪑 Callium-designer-furniture
+# 🪑 Callium - Designer Furniture
 
 ## This website template is written using HTML, CSS and JavaScript.
 
